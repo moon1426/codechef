@@ -35,9 +35,9 @@ Output: "bb"
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms  
-**Memory:** 7.7 MB  
-**Submitted:** 2026-07-02T09:55:49.592Z  
+**Runtime:** 7 ms (beats 86.55%)  
+**Memory:** 9.2 MB (beats 92.38%)  
+**Submitted:** 2026-07-02T09:57:29.148Z  
 
 ```cpp
 class Solution {
