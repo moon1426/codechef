@@ -38,9 +38,9 @@ Explanation: There is no common prefix among the input strings.
 ## Solution
 
 **Language:** C++  
-**Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 11.9 MB (beats 39.71%)  
-**Submitted:** 2026-07-14T10:18:30.313Z  
+**Runtime:** 0 ms  
+**Memory:** 8.3 MB  
+**Submitted:** 2026-07-14T10:18:37.455Z  
 
 ```cpp
 class Solution {
